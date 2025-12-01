@@ -1,0 +1,5 @@
+{
+  "name": "FuncionesMatemáticas",
+  "description": "Simulador interactivo de funciones matemáticas basado en el temario de la Unidad 4: Funciones. Incluye graficador de funciones lineales, cuadráticas y exponenciales, así como resolución de problemas aplicados.",
+  "requestFramePermissions": []
+}
